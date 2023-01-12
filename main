@@ -1,1 +1,1 @@
-create table test(id number);
+create table test(id number, name varchar(100));
