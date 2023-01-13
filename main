@@ -1,1 +1,2 @@
 create table test(id number, name varchar(100));
+select * from test;
